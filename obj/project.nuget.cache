@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "N5z6xheST75Xr8GEPIjw66x+EFt7ncs/uw8Fr/VWAajqpRWrptCGR7HOIsUfhSe8Ccr82JuO84jXwOlAc54QdA==",
+  "dgSpecHash": "OH42FurprWAN8aEAuAtfXmgnYAkqppdvacrRru2zHnKAd8XZ5h1HzJ0LmHWPRzuDkwAa/kp8iodFs8lOZmh5VQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\matet\\Desktop\\snacks-wink\\snacks-wink\\snacks-wink.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matet\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.1\\microsoft.net.test.sdk.17.7.1.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\microsoft.playwright\\1.38.0\\microsoft.playwright.1.38.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\microsoft.playwright.nunit\\1.38.0\\microsoft.playwright.nunit.1.38.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\microsoft.playwright.testadapter\\1.38.0\\microsoft.playwright.testadapter.1.38.0.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.1\\microsoft.testplatform.objectmodel.17.7.1.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.1\\microsoft.testplatform.testhost.17.7.1.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
@@ -16,7 +20,10 @@
     "C:\\Users\\matet\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\matet\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
-    "C:\\Users\\matet\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\matet\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\matet\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }
